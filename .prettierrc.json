@@ -1,9 +1,3 @@
-# utility
-
-<!-- Редактор кода ".prettierrc.json" -->
-
-Создаем папку с рабочим названием ".prettierrc.json" и вносим туда такие параметры:
-
 {
     "printWidth": 80,
     "tabWidth": 2,
